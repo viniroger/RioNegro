@@ -1,6 +1,6 @@
 # Gráfico de cotas/nível do Rio Negro
 
-O histórico dos valores de cotas (em metros) do Rio Negro entre 2000 e 2021
+O histórico dos valores diários de cotas (em metros) do Rio Negro entre 2000 e 2021
 (até 20 de outubro) estão disponíveis no arquivo 'cotas_RioNegro.csv'.
 
 O script 'plot_ts.py' faz o gráfico das séries dentro do período especificado
